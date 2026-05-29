@@ -1,0 +1,398 @@
+{
+  "users": {
+    "users-1776866605127-bm8peyhl0": {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@test.com",
+      "password": "$2a$12$hLneOWf/Wez/eSO29AaKC.LzKeP11QxBeG8SmZR5Jgw7jsQb9osvW",
+      "phone": null,
+      "role": "citizen",
+      "state": "maharashtra",
+      "district": "mumbai",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": {},
+      "updatedAt": {},
+      "id": "users-1776866605127-bm8peyhl0"
+    },
+    "users-1776869980132-3fgb0asdn": {
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2a$12$gNoIUEVUqLz6egrEmsYKS.IcVoyqf3yt8SY482wIgN4VhFlkGe2fm",
+      "phone": "9876543210",
+      "role": "citizen",
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": {},
+      "updatedAt": {},
+      "id": "users-1776869980132-3fgb0asdn"
+    },
+    "users-1776870367601-k2c0kg9gv": {
+      "name": "Test User 3",
+      "email": "test3@example.com",
+      "password": "$2a$12$/8G2dEP1T5UP5QftF.9An.W.ggSn6bK3zo2chxcpmDlpLQQsmilaS",
+      "phone": "9876543210",
+      "role": "citizen",
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:06:07.601Z",
+      "updatedAt": "2026-04-22T15:06:07.601Z",
+      "id": "users-1776870367601-k2c0kg9gv"
+    },
+    "users-1776870545185-eydwxvli0": {
+      "name": "Final Test",
+      "email": "final@example.com",
+      "password": "$2a$12$SzM5PBVceD/urxWPN8HPZ.gpLSe5/tcpzc.iiQZwrqN2D8f3kfomG",
+      "phone": "9876543210",
+      "role": "citizen",
+      "state": "delhi",
+      "district": "central delhi",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:09:05.185Z",
+      "updatedAt": "2026-04-22T15:09:05.185Z",
+      "id": "users-1776870545185-eydwxvli0"
+    },
+    "users-1776870935433-c64qjd0eu": {
+      "name": "Fake User",
+      "email": "fake@user.com",
+      "password": "$2a$12$AE14cwUfCV8P.ZEEYFRBgOjSQjVGu347ImwGnzQDfFVVIyFVj6cuu",
+      "phone": "9988776655",
+      "role": "citizen",
+      "state": "maharashtra",
+      "district": "mumbai",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:15:35.433Z",
+      "updatedAt": "2026-04-22T15:15:35.433Z",
+      "id": "users-1776870935433-c64qjd0eu"
+    },
+    "users-1776871316115-sy9yihv7z": {
+      "name": "nikhil",
+      "email": "nikhil@gmail.com",
+      "password": "$2a$12$10r0DxX4/9dLQkFB2R2F8eW0pLylpG2W0x0NfRymUh9xWvN5LwdUK",
+      "phone": null,
+      "role": "citizen",
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:21:56.115Z",
+      "updatedAt": "2026-04-22T15:21:56.115Z",
+      "id": "users-1776871316115-sy9yihv7z"
+    },
+    "users-1776871431475-irh1n0xiy": {
+      "name": "NIKHIL B",
+      "email": "vu241fa04f30@gmail.com",
+      "password": "$2a$12$Nqg8hDXxU7mQ80gU5g8O1e.Pi0ev/G7flTewHWDmyeuFoG2bTfOJe",
+      "phone": null,
+      "role": "citizen",
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:23:51.474Z",
+      "updatedAt": "2026-04-22T15:33:15.981Z",
+      "id": "users-1776871431475-irh1n0xiy"
+    },
+    "users-1776872139307-ul9w51k6j": {
+      "name": "Firebase Test",
+      "email": "firebasetest@example.com",
+      "password": "$2a$12$l0aDBn5Qh23CfwiJc/g6BepTcsmTADWOGbHz1EHA8MdVp0f.jmqG6",
+      "phone": "9876543210",
+      "role": "citizen",
+      "state": "delhi",
+      "district": "central delhi",
+      "isActive": true,
+      "isVerified": false,
+      "complaintsCount": 0,
+      "createdAt": "2026-04-22T15:35:39.306Z",
+      "updatedAt": "2026-04-22T15:35:39.306Z",
+      "id": "users-1776872139307-ul9w51k6j"
+    },
+    "users-1780026159389-7ggnttd0n": {
+      "name": "Super Admin",
+      "email": "admin@grievanceportal.gov.in",
+      "password": "$2a$12$CjdAuZtZ.aPladiEqWyCxuW4xGWDJ7gx.i.E629UWZ.Sh8uKc8tpG",
+      "role": "super_admin",
+      "isActive": true,
+      "isVerified": true,
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "createdAt": "2026-05-29T03:42:39.389Z",
+      "updatedAt": "2026-05-29T03:42:39.389Z",
+      "id": "users-1780026159389-7ggnttd0n",
+      "lastLoginAt": "2026-05-29T03:42:49.719Z"
+    },
+    "users-1780026159601-6c9dba8zx": {
+      "name": "Guntur PS",
+      "email": "ps.guntur@ap.gov.in",
+      "password": "$2a$12$tVp.lH9Ry5DmNeFSvK6YXewvgI.viHuERkNnYS4Y9Ow/79jDSXrX.",
+      "phone": "9876543210",
+      "role": "ps_officer",
+      "authorityType": "ps",
+      "authorityId": "authorities-1780026159600-bq5du60ma",
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "createdAt": "2026-05-29T03:42:39.601Z",
+      "updatedAt": "2026-05-29T03:42:39.601Z",
+      "id": "users-1780026159601-6c9dba8zx"
+    },
+    "users-1780026159813-8ap1lzqdw": {
+      "name": "Vijayawada PS",
+      "email": "ps.vijayawada@ap.gov.in",
+      "password": "$2a$12$AV9AOTE2xNCeGLS2Us2tdeTf4Y7qCygorfbfKx30CcGQ65ilryqhi",
+      "phone": "9876543211",
+      "role": "ps_officer",
+      "authorityType": "ps",
+      "authorityId": "authorities-1780026159812-wq35rfq5t",
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "krishna"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "andhra pradesh",
+      "district": "krishna",
+      "createdAt": "2026-05-29T03:42:39.813Z",
+      "updatedAt": "2026-05-29T03:42:39.813Z",
+      "id": "users-1780026159813-8ap1lzqdw"
+    },
+    "users-1780026160032-kbxg4k2yb": {
+      "name": "AP ACB Guntur",
+      "email": "acb.guntur@ap.gov.in",
+      "password": "$2a$12$U3nH2pCWYGnsoDLrCwTvBOsZ4GfGG/HLgzUKrSvReK.Hwiak2PgLe",
+      "phone": "9876543212",
+      "role": "acb_officer",
+      "authorityType": "acb",
+      "authorityId": "authorities-1780026160031-kk5fr1a27",
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "createdAt": "2026-05-29T03:42:40.032Z",
+      "updatedAt": "2026-05-29T03:42:40.032Z",
+      "id": "users-1780026160032-kbxg4k2yb"
+    },
+    "users-1780026160244-8elkspq1i": {
+      "name": "Guntur Municipal Corp",
+      "email": "municipal.guntur@ap.gov.in",
+      "password": "$2a$12$v9erU19gYUvtWnRmyxoiwOvtQ0asAKIR7Bdz/3VWnAvY23jjDgWoS",
+      "phone": "9876543213",
+      "role": "municipal_officer",
+      "authorityType": "municipal",
+      "authorityId": "authorities-1780026160243-t1wne3atz",
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "createdAt": "2026-05-29T03:42:40.244Z",
+      "updatedAt": "2026-05-29T03:42:40.244Z",
+      "id": "users-1780026160244-8elkspq1i"
+    },
+    "users-1780026160458-n2vp446eu": {
+      "name": "Hyderabad PS",
+      "email": "ps.hyderabad@telangana.gov.in",
+      "password": "$2a$12$1NLuTCsbN.Z0zAVIIeuqj.25h23lWxH7W.QtISRoQCqLRIvTtaGeu",
+      "phone": "9876543214",
+      "role": "ps_officer",
+      "authorityType": "ps",
+      "authorityId": "authorities-1780026160458-etp1u97oz",
+      "jurisdiction": {
+        "state": "telangana",
+        "district": "hyderabad"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "telangana",
+      "district": "hyderabad",
+      "createdAt": "2026-05-29T03:42:40.458Z",
+      "updatedAt": "2026-05-29T03:42:40.458Z",
+      "id": "users-1780026160458-n2vp446eu"
+    },
+    "users-1780026160670-m34km16s4": {
+      "name": "Telangana ACB",
+      "email": "acb.hyd@telangana.gov.in",
+      "password": "$2a$12$yV2qH5XKEHJLRDIsCcmmD.LS0QOHk56T2vocPDM5ZwkZtkMaTXSs6",
+      "phone": "9876543215",
+      "role": "acb_officer",
+      "authorityType": "acb",
+      "authorityId": "authorities-1780026160669-zfqef22ut",
+      "jurisdiction": {
+        "state": "telangana",
+        "district": "hyderabad"
+      },
+      "isActive": true,
+      "isVerified": true,
+      "state": "telangana",
+      "district": "hyderabad",
+      "createdAt": "2026-05-29T03:42:40.670Z",
+      "updatedAt": "2026-05-29T03:42:40.670Z",
+      "id": "users-1780026160670-m34km16s4"
+    },
+    "users-1780026160882-aoijw49ba": {
+      "name": "Ravi Kumar",
+      "email": "citizen@example.com",
+      "password": "$2a$12$rtAYKnWYrNjy8nooSxCpEOwucBexbGxohB3xzmm9bhoK0qBu98KE2",
+      "phone": "9000000001",
+      "role": "citizen",
+      "state": "andhra pradesh",
+      "district": "guntur",
+      "isActive": true,
+      "isVerified": true,
+      "complaintsCount": 0,
+      "createdAt": "2026-05-29T03:42:40.882Z",
+      "updatedAt": "2026-05-29T03:42:40.882Z",
+      "id": "users-1780026160882-aoijw49ba",
+      "lastLoginAt": "2026-05-29T03:43:58.335Z"
+    }
+  },
+  "complaints": {},
+  "escalations": {},
+  "authorities": {
+    "authorities-1780026159600-bq5du60ma": {
+      "name": "Guntur PS",
+      "email": "ps.guntur@ap.gov.in",
+      "phone": "9876543210",
+      "type": "ps",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur",
+        "districts": [
+          "guntur"
+        ]
+      },
+      "location": {
+        "lat": 16.3067,
+        "lng": 80.4365
+      },
+      "createdAt": "2026-05-29T03:42:39.600Z",
+      "id": "authorities-1780026159600-bq5du60ma"
+    },
+    "authorities-1780026159812-wq35rfq5t": {
+      "name": "Vijayawada PS",
+      "email": "ps.vijayawada@ap.gov.in",
+      "phone": "9876543211",
+      "type": "ps",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "krishna",
+        "districts": [
+          "krishna"
+        ]
+      },
+      "location": {
+        "lat": 16.5062,
+        "lng": 80.648
+      },
+      "createdAt": "2026-05-29T03:42:39.812Z",
+      "id": "authorities-1780026159812-wq35rfq5t"
+    },
+    "authorities-1780026160031-kk5fr1a27": {
+      "name": "AP ACB Guntur",
+      "email": "acb.guntur@ap.gov.in",
+      "phone": "9876543212",
+      "type": "acb",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur",
+        "districts": [
+          "guntur"
+        ]
+      },
+      "location": {
+        "lat": 16.3067,
+        "lng": 80.4365
+      },
+      "createdAt": "2026-05-29T03:42:40.031Z",
+      "id": "authorities-1780026160031-kk5fr1a27"
+    },
+    "authorities-1780026160243-t1wne3atz": {
+      "name": "Guntur Municipal Corp",
+      "email": "municipal.guntur@ap.gov.in",
+      "phone": "9876543213",
+      "type": "municipal",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "andhra pradesh",
+        "district": "guntur",
+        "districts": [
+          "guntur"
+        ]
+      },
+      "location": {
+        "lat": 16.3067,
+        "lng": 80.4365
+      },
+      "createdAt": "2026-05-29T03:42:40.243Z",
+      "id": "authorities-1780026160243-t1wne3atz"
+    },
+    "authorities-1780026160458-etp1u97oz": {
+      "name": "Hyderabad PS",
+      "email": "ps.hyderabad@telangana.gov.in",
+      "phone": "9876543214",
+      "type": "ps",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "telangana",
+        "district": "hyderabad",
+        "districts": [
+          "hyderabad"
+        ]
+      },
+      "location": {
+        "lat": 17.385,
+        "lng": 78.4867
+      },
+      "createdAt": "2026-05-29T03:42:40.458Z",
+      "id": "authorities-1780026160458-etp1u97oz"
+    },
+    "authorities-1780026160669-zfqef22ut": {
+      "name": "Telangana ACB",
+      "email": "acb.hyd@telangana.gov.in",
+      "phone": "9876543215",
+      "type": "acb",
+      "isActive": true,
+      "jurisdiction": {
+        "state": "telangana",
+        "district": "hyderabad",
+        "districts": [
+          "hyderabad"
+        ]
+      },
+      "location": {
+        "lat": 17.385,
+        "lng": 78.4867
+      },
+      "createdAt": "2026-05-29T03:42:40.669Z",
+      "id": "authorities-1780026160669-zfqef22ut"
+    }
+  }
+}
