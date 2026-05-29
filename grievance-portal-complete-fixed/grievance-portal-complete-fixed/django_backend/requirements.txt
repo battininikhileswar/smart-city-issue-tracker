@@ -29,7 +29,6 @@ pandas==3.0.1
 pillow==12.1.1
 pycparser==3.0
 pycryptodome==3.23.0
-pygame==2.6.1
 PyJWT==2.13.0
 PyMySQL==1.2.0
 python-dateutil==2.9.0.post0
